@@ -1,2 +1,2 @@
-# BackDoor Linux - Penetration Testing
-Arch Linux based linux distribution.
+# RLS Linux
+Debian-based linux distribution.
