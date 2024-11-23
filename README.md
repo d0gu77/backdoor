@@ -1,2 +1,2 @@
-# RLS Linux
-Debian-based linux distribution.
+# RLS Packet Manager
+Package manager equipped with cybersecurity tools.
