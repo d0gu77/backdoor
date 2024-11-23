@@ -1,0 +1,10 @@
+Package Name: metasploit
+Description: Metasploit Framework is an open-source penetration testing platform that enables security professionals to find, exploit, and validate vulnerabilities.
+Version: 6.0.35
+Dependencies: 
+    - ruby
+    - libpcap
+    - libsqlite3
+    - postgresql
+Installation Method: .sh (direct installation)
+Installation Instructions: Use `rls install metasploit` to install.
