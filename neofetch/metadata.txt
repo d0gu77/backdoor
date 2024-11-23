@@ -1,0 +1,10 @@
+Package Name: neofetch
+Description: neofetch
+Version: 6.0.35
+Dependencies: 
+    - ruby
+    - libpcap
+    - libsqlite3
+    - postgresql
+Installation Method: .deb (direct installation)
+Installation Instructions: Use `rls install neofetch` to install.
